@@ -60,6 +60,7 @@ it will support even more in the future. Currently supported algorithms include:
 * Ghash
 * HC128
 * HMAC
+* HME (Homomorphic Encryption)
 * MD5
 * PBKDF2
 * PKCS padding for CBC block cipher mode
